@@ -1,0 +1,38 @@
+{
+  "name": "ANDHIMIND ID",
+  "short_name": "ANDHIMIND",
+  "start_url": "https://www.andhimind.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "ANDHIMIND menjadi layanan e-niaga andalan untuk mewujudkan impian belanja online Anda. Jual semua kebutuhan dan keperluan hidupmu dengan harga jujur dan kualitas terbaik. Tersedia mulai dari Fashion, Perlengkapan Rumah Tangga, Aksesoris, Perlengkapan Kantor, Kebutuhan Ibu dan Anak, Kupon dan Voucher Game, Tiket Transportasi, Pembayaran Asuransi, Pembayaran Tagihan Bulan, hingga Melayani Isi Ulang Pulsa",
+  "icons": [{
+    "src": "https://2.bp.blogspot.com/-EvCTNJz25vY/WlDFrRq6ScI/AAAAAAAAvFc/sLt_QKBFDGQ9RlLW5Qp-PEjQrJO5pzs-QCLcBGAs/s48/fav-andhimind.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-EvCTNJz25vY/WlDFrRq6ScI/AAAAAAAAvFc/sLt_QKBFDGQ9RlLW5Qp-PEjQrJO5pzs-QCLcBGAs/s72/fav-andhimind.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-EvCTNJz25vY/WlDFrRq6ScI/AAAAAAAAvFc/sLt_QKBFDGQ9RlLW5Qp-PEjQrJO5pzs-QCLcBGAs/s96/fav-andhimind.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-EvCTNJz25vY/WlDFrRq6ScI/AAAAAAAAvFc/sLt_QKBFDGQ9RlLW5Qp-PEjQrJO5pzs-QCLcBGAs/s144/fav-andhimind.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-EvCTNJz25vY/WlDFrRq6ScI/AAAAAAAAvFc/sLt_QKBFDGQ9RlLW5Qp-PEjQrJO5pzs-QCLcBGAs/s168/fav-andhimind.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-EvCTNJz25vY/WlDFrRq6ScI/AAAAAAAAvFc/sLt_QKBFDGQ9RlLW5Qp-PEjQrJO5pzs-QCLcBGAs/s192/fav-andhimind.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-EvCTNJz25vY/WlDFrRq6ScI/AAAAAAAAvFc/sLt_QKBFDGQ9RlLW5Qp-PEjQrJO5pzs-QCLcBGAs/s512/fav-andhimind.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
